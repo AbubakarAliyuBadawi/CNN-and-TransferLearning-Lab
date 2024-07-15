@@ -1,4 +1,4 @@
-# Deep Learning with CNNs and Transfer Learning
+# CNNs and Transfer Learning
 
 ## Overview
 This repository contains a Jupyter notebook that explores the implementation and understanding of Convolutional Neural Networks (CNNs) using PyTorch. The project focuses on building a simple CNN model for image classification and extends to applying transfer learning techniques with pretrained models.
